@@ -1,0 +1,19 @@
+/* CSS Color */
+
+/* Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values. */
+
+body {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: papayawhip; /*You can set the background color by name for HTML elements by this.*/
+    color: rgb(0, 0, 0); /*Like this You can set the color  by RGB method to text */
+}
+
+h1{
+    color: #000;/*A hexadecimal color is specified with: #RRGGBB, where the RR (red), GG (green) and BB (blue) hexadecimal integers specify the components of the color.*/
+}
+
+p {
+    color: rgba(0, 0, 0, 0.5);/*Like this You can set the color  by RGBA method to text */
+}
