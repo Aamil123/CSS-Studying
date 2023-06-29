@@ -5,5 +5,7 @@ print("Hi my is age "+str(b)+" The second value "+str(a))
  
 #This is the second section of using input
 
-cd=input("Hey!, user enter your age man : ")
-print("Hey!, Your so young your age is "+str(cd)+" unbelavabile age")
+cd=int(input("Hey!, user enter your age man : "))
+d=int(input())
+c=cd+d
+print("Hey!, Your so young your age is "+str(c)+" unbelavabile age")
