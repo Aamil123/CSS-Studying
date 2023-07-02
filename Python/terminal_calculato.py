@@ -1,6 +1,6 @@
 number1=int(input("Enter 2 numbers : "))
 number2=int(input())
-a= input("+,-,*,/ select from these operations you want : ")
+a= input("\n+,\n-,\n*,\n/,\n select from these operations you want : ")
 
 if '+' in a:
     sum=number1+number2
@@ -19,7 +19,7 @@ elif '/' in a:
     print("The Division = "+str(division))
     
 else:
-    input("Sorry this operation cannot be use in my terminal calculator any other help you want sir :   ")
-print("Tankyou for using my terminal calculator (-_-)")
+    input("\nSorry this operation cannot be use in my terminal calculator \nAny other help you want sir :   ")
+print("\nTankyou for using my terminal calculator (-_-)\n")
 
 
