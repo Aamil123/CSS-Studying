@@ -1,3 +1,4 @@
+#hi
 #this is for studying
 print("Hey!, you know i am studying python") #This is used to print the string
 a= 12
