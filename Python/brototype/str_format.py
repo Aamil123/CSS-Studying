@@ -21,3 +21,6 @@ print('\n\n{0:_^11}'.format('hello'))
 print('a', end=' ')
 print('b', end=' ')
 print('c')
+
+#indicate the start of a new line. An example is:
+print("\nAamil is \nvery good boy in the world\n")
