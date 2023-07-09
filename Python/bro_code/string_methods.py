@@ -1,4 +1,4 @@
-name = "Aaalmil"
+name = "AAmil"
 
 # print(len(name)) Get the lenght of the name 
 # print(name.find('a')) Using tthis method we can find were is the charecter
