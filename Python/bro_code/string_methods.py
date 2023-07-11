@@ -1,3 +1,4 @@
+#types of string
 name = "AAmil"
 
 # print(len(name)) Get the lenght of the name 
